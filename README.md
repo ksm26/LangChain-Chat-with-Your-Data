@@ -8,12 +8,12 @@
 📖 A short course on LangChain: Chat With Your Data! Explore two main topics: Retrieval Augmented Generation (RAG) and building a chatbot. Unlock the potential of Large Language Models (LLMs) to retrieve contextual documents and create chatbots that respond using your own data. 
 
 You'll learn about:
-1. 📥 Document Loading: Access over 80 unique loaders provided by LangChain to handle various data sources, including audio and video.
-2. ✂️ Document Splitting: Discover best practices and considerations for splitting data effectively.
-3. 🧮 Vector Stores and Embeddings: Dive into embeddings and explore vector store integrations within LangChain.
-4. 🔄 Retrieval: Grasp advanced techniques for accessing and indexing data in the vector store to retrieve relevant information beyond semantic queries.
-5. 🤔 Question Answering: Build a one-pass question-answering solution.
-6. 💬 Chat: Track and select pertinent information from conversations and data sources to build your own chatbot using LangChain.
+1. 📥 **Document Loading**: Access over 80 unique loaders provided by LangChain to handle various data sources, including audio and video.
+2. ✂️ **Document Splitting**: Discover best practices and considerations for splitting data effectively.
+3. 🧮 **Vector Stores and Embeddings**: Dive into embeddings and explore vector store integrations within LangChain.
+4. 🔄 **Retrieval**: Grasp advanced techniques for accessing and indexing data in the vector store to retrieve relevant information beyond semantic queries.
+5. 🤔 **Question Answering**: Build a one-pass question-answering solution.
+6. 💬 **Chat**: Track and select pertinent information from conversations and data sources to build your own chatbot using LangChain.
 
 💡 Start building practical applications that allow you to interact with data using LangChain and LLMs. 
 
