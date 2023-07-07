@@ -18,6 +18,7 @@ You'll learn about:
 <p align="center">
 <img src="images/L2-Document_splitting.png" width="450" > 
 </p>
+
 3. 🧮 **Vector Stores and Embeddings**: Dive into embeddings and explore vector store integrations within LangChain.
 4. 🔄 **Retrieval**: Grasp advanced techniques for accessing and indexing data in the vector store to retrieve relevant information beyond semantic queries.
 5. 🤔 **Question Answering**: Build a one-pass question-answering solution.
