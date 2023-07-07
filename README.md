@@ -38,6 +38,10 @@ You'll learn about:
 </p>
 
 6. 💬 **Chat**: Track and select pertinent information from conversations and data sources to build your own chatbot using LangChain.
+<p align="center">
+<img src="images/L6-chat1.png" height="430" > 
+<img src="images/L6-chat2.png" height="430">
+</p>
 
 💡 Start building practical applications that allow you to interact with data using LangChain and LLMs. 
 
