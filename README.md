@@ -20,6 +20,10 @@ You'll learn about:
 </p>
 
 3. 🧮 **Vector Stores and Embeddings**: Dive into embeddings and explore vector store integrations within LangChain.
+<p align="center">
+<img src="images/L3-Vectorstores_embeddings.png" width="450" > 
+</p>
+
 4. 🔄 **Retrieval**: Grasp advanced techniques for accessing and indexing data in the vector store to retrieve relevant information beyond semantic queries.
 5. 🤔 **Question Answering**: Build a one-pass question-answering solution.
 6. 💬 **Chat**: Track and select pertinent information from conversations and data sources to build your own chatbot using LangChain.
