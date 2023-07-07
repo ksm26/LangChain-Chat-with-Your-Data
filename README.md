@@ -31,6 +31,12 @@ You'll learn about:
 </p>
 
 5. 🤔 **Question Answering**: Build a one-pass question-answering solution.
+<p align="center">
+<img src="images/L5-QnA.png" width="450" > 
+<img src="images/L5-structure.png" width="200" height="230">
+<img align="centre" src="images/L5-techniques.png"  height="300">
+</p>
+
 6. 💬 **Chat**: Track and select pertinent information from conversations and data sources to build your own chatbot using LangChain.
 
 💡 Start building practical applications that allow you to interact with data using LangChain and LLMs. 
