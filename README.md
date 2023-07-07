@@ -25,6 +25,11 @@ You'll learn about:
 </p>
 
 4. 🔄 **Retrieval**: Grasp advanced techniques for accessing and indexing data in the vector store to retrieve relevant information beyond semantic queries.
+<p align="center">
+<img src="images/L4-Retrieval.png" width="450" > 
+<img src="images/L4-compression_llm.png" height="230">
+</p>
+
 5. 🤔 **Question Answering**: Build a one-pass question-answering solution.
 6. 💬 **Chat**: Track and select pertinent information from conversations and data sources to build your own chatbot using LangChain.
 
