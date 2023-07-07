@@ -9,6 +9,9 @@
 
 You'll learn about:
 1. 📥 **Document Loading**: Access over 80 unique loaders provided by LangChain to handle various data sources, including audio and video.
+<p align="center">
+<img src="images/L1-Document_loading.png" height="450"> 
+</p>
 2. ✂️ **Document Splitting**: Discover best practices and considerations for splitting data effectively.
 3. 🧮 **Vector Stores and Embeddings**: Dive into embeddings and explore vector store integrations within LangChain.
 4. 🔄 **Retrieval**: Grasp advanced techniques for accessing and indexing data in the vector store to retrieve relevant information beyond semantic queries.
